@@ -1,0 +1,27 @@
+githug2
+
+github.com이란?
+github.com은 개발자들이 소스코드의 변경사항을 백업하고, 공유하는 온라인 서비스입니다. 아주 많은 개발자들이 이 서비스를 이용해서 협업을 하고 있습니다. 대부분의 오픈소스 프로젝트들이 이 서비스를 통해서 만들어지고 있습니다. 그래서 github는 소프트웨어에 관심이 있는 사람이라면 알아야 할 서비스입니다. 
+
+안타깝게도 github.com는 git을 이용합니다. git은 강력하지만 배우기가 어렵습니다. 그래서 git을 사용하지 않는 개발자나 비개발자들에게는 git이라는 장애물로 인해서 github를 접하는 것이 쉽지 않은 일입니다. 
+
+이 수업에서는 이런 분들 위해서 git을 모른다고 간주하고, 깃을 소개합니다. git을 사용하는 대신 github의 파일 편집 기능과 업로드 기능을 이용해서 github를 접할 수 있게 했습니다. 
+
+특히 git을 모르는 사람 중 github를 알아야 하는 사람들은 대체로 개발자와 협업을 필요로하기 때문에 이런 분들을 위해서 issue 나 insight와 같은 기능들을 중점적으로 소개합니다. 
+
+github를 배우고 싶지만 git의 기술적 난관 때문에 어려웠던 분들에게 도움이 되었으면 좋겠습니다. 
+
+이 수업의 전체 내용은 아래 생활코딩의 홈페이지에 정리해두었습니다. 
+https://opentutorials.org/module/4636
+
+youtube에서 보고 싶은 분은 아래 유튜브 재생목록으로 볼 수 있습니다. 
+https://www.youtube.com/playlist?list...
+
+공부순서는 아래 지식지도에 있습니다. 
+https://seomal.org/?i=GITHUB
+
+수업소식을 이메일로 받아보고 싶으신 분은 아래 메일링 리스트에 가입해주세요. 
+https://page.stibee.com/subscriptions...
+
+   Dropbox.com Server - Dropbox Client 
+
